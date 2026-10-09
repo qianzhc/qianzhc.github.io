@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello,and welcome to my academic website.
+Hello，and welcome to my academic website.
 
 I am an Assistant Professor in the School of
 Public Administration at Southwest Jiaotong University in Chengdu, China. My 
