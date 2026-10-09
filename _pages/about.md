@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website. I am an Assistant Professor in the School of
+Welcome to my academic website. 
+
+I am an Assistant Professor in the School of
 Public Administration at Southwest Jiaotong University in Chengdu, China. My 
 current research focuses on the policy process, comparative social policy, health
 policy, and poverty alleviation policy.
