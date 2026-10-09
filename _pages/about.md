@@ -1,15 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Welcome to my academic website. I am an Assistant Professor at the Department of Public Policy, Southwest Jiaotong University, Chengdu, China. My research focuses on policy process (policy design, implementation and evaluation), comparative social policy, health policy, and poverty alleviation policy.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Before beginning my current position, I was a postdoctoral researcher at The University of Hong Kong. I earned my Ph.D. at the Department of Social Work and Social Administration from The University of Hong Kong in 2025. During my doctoral studies, I was a visiting Ph.D. student at Rutgers University, New Brunswick. I also hold a Master of Management in Social Security from Renmin University of China and a Bachelor of Law in Social Work from Nankai University.
+
+You can contact me at qianzhc@swjtu.edu.cn
+with questions about my research or opportunities for collaboration.
+
+## Research Interests
+
+- [Research area 1]
+- [Research area 2]
+- [Research area 3]
 
 A data-driven personal website
 ======
@@ -54,3 +63,6 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+Update homepage
+
