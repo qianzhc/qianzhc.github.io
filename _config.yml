@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Qian Zhang"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Professor"
   location         : "Chengdu, China"
   employer         : "Southwest Jiaotong University"
   uri              : # URL
-  email            : "qianzhc@swjtu.edu.cn / qianzhc@126.com" 
+  email            : "qianzhc@swjtu.edu.cn" 
 
   # Academic website
   googlescholar    : "https://scholar.google.com/citations?user=8BBFS_sAAAAJ&hl=zh-CN"
